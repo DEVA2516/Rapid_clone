@@ -14,7 +14,9 @@ div {
     border :2px solid black;
     padding : 20px;
 } */
-
+.container {    
+    margin-top: 20px;
+}
 h1 {
     font-family: "Montserrat",sans-serif;
 }
@@ -25,10 +27,21 @@ img {
 ul {
     display: flex;
     list-style: none;
+
 }
+
 
 li {
     margin: 2%;
-    font-size: 20px;
+    font-size: 14px;
     font-family: "Montserrat",sans-serif;
+}
+
+.div2 {
+    padding: 100px 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 48px;
 }
