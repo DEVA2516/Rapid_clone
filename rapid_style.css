@@ -1,6 +1,12 @@
 body {
 
     margin: 20px;
+    background: #fff;
+    font-family: "open sans",sans-serif;
+
+}
+* {
+    box-sizing: border-box;
 
 }
 /*
@@ -9,6 +15,20 @@ div {
     padding : 20px;
 } */
 
+h1 {
+    font-family: "Montserrat",sans-serif;
+}
 img {
     margin-top: 50px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    margin: 2%;
+    font-size: 20px;
+    font-family: "Montserrat",sans-serif;
 }
